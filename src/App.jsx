@@ -1,4 +1,4 @@
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react";
 import useDocumentSetup from './components/document/documentSetup.jsx';
 
 import './App.css';

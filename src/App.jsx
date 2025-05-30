@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/next"
 import useDocumentSetup from './components/document/documentSetup.jsx';
 
 import './App.css';
@@ -17,6 +18,7 @@ const App = () => {
 
   return (
     <div className="App">
+      <Analytics />
       <BackgroundEffects />
       <Header />
       <HeroSection />

@@ -5,7 +5,7 @@ const Header = () => (
     <div className="container">
       <nav className="nav">
         <img src={logoImg} className="logo-img" alt="logo" />
-        <a href="https://wa.me/62XXXXXXXXXXX" target="_blank" className="btn-contact-us">
+        <a href="https://wa.me/6285175435477" target="_blank" className="btn-contact-us">
           Contact Us
         </a>
       </nav>
